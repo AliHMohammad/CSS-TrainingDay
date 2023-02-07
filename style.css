@@ -1,0 +1,54 @@
+
+body{
+    background-color: red;
+    color: white;
+}
+
+header{
+    background-color: blue;
+}
+
+section{
+    color: orange;
+}
+
+h2{
+    color: black;
+}
+
+h2{
+    color:darkgray;
+}
+
+
+
+
+
+#about{
+    background-color: grey;
+}
+
+#boxmodel{
+    background-color: green;
+}
+
+#units{
+    background-color: purple;
+    
+}
+
+#fonts{
+    background-color: cyan;
+}
+
+.codebox, #units{
+    background-color: teal;
+}
+
+section.codebox{
+    background-color: yellow;
+}
+
+nav ul{
+    background-color: black;
+}
